@@ -1,4 +1,4 @@
-package com.example.demo.service;
+package com.example.demo.GeocodingAPI.service;
 
 import com.example.demo.model.CityResponse;
 import org.springframework.beans.factory.annotation.Autowired;
