@@ -1,10 +1,12 @@
 package com.example.demo.GeocodingAPI.service;
 
-import com.example.demo.model.CityResponse;
+
+import com.example.demo.GeocodingAPI.model.CityResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Mono;
+
 
 @Service
 public class CountryService {

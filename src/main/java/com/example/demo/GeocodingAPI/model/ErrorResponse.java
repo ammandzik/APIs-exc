@@ -1,4 +1,4 @@
-package com.example.demo.model;
+package com.example.demo.GeocodingAPI.model;
 
 public record ErrorResponse(
     int status,
