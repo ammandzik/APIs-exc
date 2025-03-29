@@ -1,7 +1,7 @@
 package com.example.demo.controller;
 
 import com.example.demo.model.CityResponse;
-import com.example.demo.service.CountryService;
+import com.example.demo.GeocodingAPI.service.CountryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
